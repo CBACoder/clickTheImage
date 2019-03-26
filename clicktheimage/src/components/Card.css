@@ -1,11 +1,11 @@
 .card {
-    background: #fff;
+    background: rgb(180, 135, 135);
     border-radius: 2px;
     height: 250px;
     margin: 1rem;
     position: relative;
     width: 325px;
-    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    box-shadow: 0 3px 6px rgb(133, 75, 75), 0 3px 6px rgb(134, 158, 168);
     text-align: left;
   }
   
